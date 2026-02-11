@@ -2,7 +2,7 @@
 Contributors: jeremyshapiro
 Tags: url, query string, url parameters, urlparam, url params, url param, query, jeremy shapiro, infusion, infusionsoft, keap, purl
 Requires at least: 3.0
-Tested up to: 6.2
+Tested up to: 6.7.1
 Stable tag: 2.5
 
 Short Code to grab any URL parameter from the Query String and display it or display conditional content.
