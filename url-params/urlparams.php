@@ -10,7 +10,7 @@ Author URI: http://www.asandia.com/
 
 /*
 URL Params (Wordpress Plugin)
-Copyright (C) 2011-2023 Jeremy Shapiro
+Copyright (C) 2011-2026 Jeremy Shapiro
 
 */
 
